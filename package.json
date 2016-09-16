@@ -1,0 +1,14 @@
+{
+  "name": "jsgui2-b-plus-tree",
+  "main": "b-plus-tree.js",
+  "license" : "MIT",
+  "engines" : { "node" : ">=6.5.0" },
+  "description": "jsgui2 ES6 B+ Tree (sorted/ordered index) class",
+  "author": "James Vickers <james@metabench.com>",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/metabench/jsgui2-b-plus-tree.git"
+  },
+  "version": "0.0.1"
+
+}
